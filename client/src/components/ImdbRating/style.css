@@ -1,0 +1,21 @@
+.imdb{
+    position:relative;
+    display: flex;
+    align-items: center;
+}
+.imdb-img{
+    width: 80px;
+}
+
+.imdb-rating{
+    position:absolute;
+    top:50%;
+    transform:translateY(-50%);
+    left:45px;
+    width:40px;
+    text-align: center;
+    color:black;
+    font-size: 17px;
+    font-weight: 900;
+    z-index: 10;
+}

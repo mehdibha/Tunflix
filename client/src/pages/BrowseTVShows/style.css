@@ -1,0 +1,23 @@
+.tvshows-container{
+    padding-top: 60px;
+}
+
+.tvshows-container h1{
+    color:white;
+    font-size: 50px;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin:0 30px;
+}
+
+.tvshows-title{
+    display: flex;
+    align-items: center;
+    margin:30px 0;
+}
+
+.selector{
+    min-width: 150px;
+    cursor: pointer;
+}

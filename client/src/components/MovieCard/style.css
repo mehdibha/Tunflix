@@ -1,0 +1,16 @@
+.movie-card {
+  background-color: #222;
+  background-image : linear-gradient(rgba(0,0,0,0) ,#000);
+  display: flex;
+  transition-duration: .2s;
+  height: 250px;
+  border-radius: 4px !important;
+  margin-right: 10px;
+}
+
+.movie-card-img{
+  height:100%;
+}
+
+.movie-card:hover{
+}
