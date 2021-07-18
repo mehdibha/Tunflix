@@ -26,7 +26,7 @@ const Browse = () => {
             <MainContainer>
                     <Banner data={banner} mediaType="movie" />
                     <div>
-                        {rows && rows.map((elem, k) => (
+                        {rows && rows.slice(0,4).map((elem, k) => (
                             <Row key={k} title={elem.title} data={elem.data} />
                         ))}
                     </div>
