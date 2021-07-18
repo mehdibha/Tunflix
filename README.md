@@ -48,8 +48,3 @@ npm run dev
   <b>Database:</b>MongoDB, Mongoose
 </ul>
 
-## Features
-
-  Sign In / Sign Up / Sign Out the user.
-  Recieving a welcoming email when sign-up using Nodemailer.
-  Add a new movie to the list.
