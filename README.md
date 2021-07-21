@@ -1,6 +1,13 @@
 # X-Netflix
 X-Netflix is a streaming platform based on Netflix UI: built with ReactJS in frontend and nodeJS in backend.
 
+## Built with
+
+  <b>FrontEnd:</b> React.JS, Redux Library, Material UI, CSS
+  <b>Backend: </b> Node.JS, Express.JS, Passportjs
+  <b>Database:</b>MongoDB, Mongoose
+</ul>
+
 ## UI
 
 ### Home
@@ -41,10 +48,5 @@ npm run setup
 npm run dev
 ```
 
-## Built with
 
-  <b>FrontEnd:</b> React.JS, Redux Library, Material UI, CSS
-  <b>Backend: </b> Node.JS, Express.JS, Passportjs
-  <b>Database:</b>MongoDB, Mongoose
-</ul>
 
